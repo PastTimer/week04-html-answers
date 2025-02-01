@@ -1,0 +1,33 @@
+body{
+    background-color: #e9edef;
+    font-family: Arial, sans-serif;
+    padding: 2em;
+}
+h1{
+    text-align: center;
+    color: #281638;
+    margin-top: 50px;
+}
+table{
+    width:100%;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid #14172f;
+    padding: 1em;
+    text-align: center;
+    background-color: #deebf5;
+}
+th{
+    background-color: #acd0ea;
+    font-weight: 1000;
+}
+td:first-child {
+    font-weight: bold;
+}
+td.os {
+    color: red;
+}
+td.av{
+    color: green;
+}
