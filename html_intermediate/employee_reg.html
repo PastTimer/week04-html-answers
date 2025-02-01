@@ -104,5 +104,20 @@
             <button type="submit">Submit</button>
         </form>
     </div>
+    <script>
+        document.getElementById('registration-form').addEventListener('submit', function(event) { 
+            event.preventDefault();
+
+            const formData = {
+                lastname: document.getElementById('last_name').value,
+                firstname: document.getElementById('first_name').value,
+                middlename: document.getElementById('middle_name').value,
+                birthdate: document.getElementById('birthdate').value,
+                department: document.getElementById('department').value,
+                office: document.getElementById('office').value
+            };
+            console.log('Form Data:', formData);
+        });
+    </script>
 </body>
 </html>
