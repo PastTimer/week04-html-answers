@@ -62,8 +62,9 @@ ul{
 #Act2 h3{
     text-align: left;
 }
-footer{
-    text-align: center;
+footer h3{
+    text-align: left;
+    margin-left: 80px;
 }
 table, th, td{
     border-collapse: collapse;
@@ -71,4 +72,12 @@ table, th, td{
 }
 table {
     width: 100%;
+}
+#accounts{
+    font-size: 10px;
+    text-align: center;
+}
+table th{
+    text-align: center;
+    font-size: 10px;
 }
