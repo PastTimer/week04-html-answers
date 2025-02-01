@@ -1,0 +1,38 @@
+body{
+    background-color: #97bcd4;
+    font-family: Arial, sans-serif;
+    margin: 3em;
+    padding: 2em;
+}
+h1{
+    text-align: center;
+    color: #281638;
+    margin-top: 50px;
+}
+h2{
+    text-align: center;
+    color: #281638;
+    margin-top: 50px;
+}
+h3{
+    text-align: center;
+    color: #281638;
+    margin-top: 50px;
+}
+h4{
+    text-align: center;
+    color: #281638;
+    margin-top: 50px;
+}
+.box{
+    background-color: #6b8fa9;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    padding:2em;
+}
+.outline{
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    border: 1px solid #97bcd4;
+    border-radius: 5px;
+    padding: 2em;
+}
