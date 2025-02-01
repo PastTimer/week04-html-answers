@@ -38,8 +38,24 @@ h4{
 .list{
     list-style-type: none;
     margin:4em;
-    font-size: 1.2em;
 }
 ul{
     list-style-type: disc;
+}
+.nooutline{
+    background-color: #dcdcdc;
+    padding: 4em;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    font-size: 1.2em;
+    margin: 4em;
+}
+.withoutline{
+    background-color: #f7f7f7;
+    padding: 4em;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    border: 1px solid #97bcd4;
+    font-size: 1.2em;
+    margin: 4em;
 }
