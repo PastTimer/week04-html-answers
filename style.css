@@ -1,5 +1,5 @@
-#Act1 {
-    background-color: #97bcd4;
+body {
+    background-color: #e9edef;
     font-family: Arial, sans-serif;
     padding: 2em;
 }
@@ -24,7 +24,7 @@ h4{
     margin-top: 50px;
 }
 .box{
-    background-color: #6b8fa9;
+    background-color: #acd0ea;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     border-radius: 5px;
     padding:2em;
