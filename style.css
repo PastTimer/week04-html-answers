@@ -62,3 +62,13 @@ ul{
 #Act2 h3{
     text-align: left;
 }
+footer{
+    text-align: center;
+}
+table, th, td{
+    border-collapse: collapse;
+    padding: 8px;
+}
+table {
+    width: 100%;
+}
