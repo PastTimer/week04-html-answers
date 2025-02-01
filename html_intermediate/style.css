@@ -31,3 +31,7 @@ td.os {
 td.av{
     color: green;
 }
+td.en{
+    text-align: left;
+    color: #0e1e9a;
+}
