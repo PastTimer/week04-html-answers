@@ -62,3 +62,22 @@ ul{
 #Act2 h3{
     text-align: left;
 }
+footer h3{
+    text-align: left;
+    margin-left: 80px;
+}
+table, th, td{
+    border-collapse: collapse;
+    padding: 8px;
+}
+table {
+    width: 100%;
+}
+#accounts{
+    font-size: 10px;
+    text-align: center;
+}
+table th{
+    text-align: center;
+    font-size: 10px;
+}
